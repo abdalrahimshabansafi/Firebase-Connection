@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "772606901874",
+    "project_id": "firsttrying-ef2fa",
+    "storage_bucket": "firsttrying-ef2fa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:772606901874:android:baf1cb54ba12609142cceb",
+        "android_client_info": {
+          "package_name": "com.example.firstapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "772606901874-b98i0qkm01nh5sohshibqalvbhehrcei.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHqdoK-Ms6GdsnMqSTFIWgGgcMBUYJB2I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "772606901874-b98i0qkm01nh5sohshibqalvbhehrcei.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
